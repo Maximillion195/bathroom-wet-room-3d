@@ -11,10 +11,10 @@ Export from Sweet Home 3D for sharing / viewing online.
 ```
 https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export.obj
 https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export.mtl
-https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export_MetalicTap_Tap_124.jpeg
+https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export_MetalicTap_Tap_132.jpeg
 https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export_textureHoles.png
 https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export_room_5_26.jpeg
-https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export_sweethome3d_window_mirror_118.jpeg
+https://raw.githubusercontent.com/Maximillion195/bathroom-wet-room-3d/main/export_sweethome3d_window_mirror_126.jpeg
 ```
 
 4. Click **Share model** to get a link you can send.
